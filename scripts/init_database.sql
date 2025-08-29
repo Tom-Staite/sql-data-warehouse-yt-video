@@ -17,7 +17,8 @@ Modification History:
 Version     Date            Author                  Comments
 -------     ----------      ----------------        ---------------------------------
 1.0         29/08/2025      Thomas Staite           Initial script version
-*/
+
+-------------------------------------------------------------------------------------*/
 
 USE master;
 GO
